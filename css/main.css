@@ -1958,7 +1958,7 @@ legend {
 /* Три модалки */
 
 .fade-block {
-  position: absolute;
+  position: fixed;
   top: -90px;
   left: 0;
   right: 0;
@@ -2003,19 +2003,19 @@ legend {
 
 @media(max-width:599px){
   .modal-window.modal-window-1{
-    top: 30%;
+    top: 50%;
   }
 }
 
 @media(max-width:599px){
   .modal-window.modal-window-2{
-    top: 55%;
+    top: 50%;
   }
 }
 
 @media(max-width:599px){
   .modal-window.modal-window-3{
-    top: 85%;
+    top: 50%;
   }
 }
 /*# sourceMappingURL=main.css.map */
